@@ -15,11 +15,11 @@ class Appointment
   
   def patient
     #belongs_to :patient
-    self.patient
+    #self.patient
   end
   
   def doctor
     #belongs_to :doctor
-    self.doctor
+    #self.doctor
   end
 end
